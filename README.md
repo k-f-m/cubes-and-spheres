@@ -1,5 +1,5 @@
 # Cubes And Spheres
-This program reads some parameters including the object names, their colors, and coordinates from a text file. Consequently, it will locate and place the objects in a three-dimensional space. The objects can be either viewed in a 2D perspective or orthographic perspective projection. After the demonstration of the scene, by pressing any key, the scene will disappear, and the system time indicating the scene close time will be demonstrated instead. At this point, by pressing the escape key, the application will be closed.
+This program reads some parameters including the object names, their colors, and coordinates from a text file. Consequently, it will locate and place the objects in a three-dimensional space. The objects can be either viewed in a two-dimensional perspective or orthographic projection. After the demonstration of the scene, by pressing any key, the scene will disappear, and the system time indicating the scene closing time will be demonstrated instead. At this point, by pressing the escape key, the application will be closed.
 
 # Task Requirements:
 ## Task description:
