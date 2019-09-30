@@ -1,5 +1,5 @@
 # Cubes And Spheres
-This program reads some parameters including the objects, their colors, and coordinates from a number of objects such as sphere and cube from a text file. Consequently, it will locate the objects in the space. The objects can be viewed in a 2D perspective either as orthographic or perspective projection. After the demonstration, by pressing any key, the scene will disappear, and the system time will be demonstrated instead. At this point, by pressing the escape key, the application will be closed.
+This program reads some parameters including the object names, their colors, and coordinates from a text file. Consequently, it will locate and place the objects in a three-dimensional space. The objects can be either viewed in a 2D perspective or orthographic perspective projection. After the demonstration of the scene, by pressing any key, the scene will disappear, and the system time indicating the scene close time will be demonstrated instead. At this point, by pressing the escape key, the application will be closed.
 
 # Task Requirements:
 ## Task description:
@@ -12,8 +12,9 @@ In Unity, program a 2D scene that reads parameters from a file, loads the descri
 2. Prepare code for reading the input file, display the scene (in orthographic or perspective projection in 2D) and add user input (key press for exiting the scene). 
 
 ## Further notes:
-The program reads the coordinates from a spreadsheet file (.csv) and demonstrates the results on the screen as perspective or orthographic projection. The coordinates for each object are given in 3 dimensions. The position of the camera can also be set via the corresponding parameters in the spreadsheet. As a consequence, objects and relevant parameters can be added and altered by the customer easily and as desired using the common spreadsheet management software as well as a simple text editor. The spreadsheet file with the name "ObjectsProperties.csv" can be found under Assets -> Resources directory and modified accordingly. The file is already filled with some semi-random coordinates for demonstration purposes.
+The program reads the coordinates from a spreadsheet file (.csv) and demonstrates the results on the screen as perspective or orthographic projection. The coordinates for each object are given in three dimensions. The position of the camera can also be set via the corresponding parameters in the spreadsheet. As a consequence, objects and relevant parameters can be added and altered by the user easily and as desired using the common spreadsheet management software, as well as a simple text editor. The spreadsheet file with the name "ObjectsProperties.csv" can be found under Assets ->  Resources directory and modified accordingly. The file is already filled with some semi-random coordinates for demonstration purposes.
 
-An already built software (with a perspective view) for Windows platform can be downloaded and tested. The executable "2D_scene.exe" can be found under the "Build" directory.
+A pre-built software (with a perspective view) for Windows platform can be downloaded and tested; the executable "2D_scene.exe" can be found under the "Build" directory.
 
 Moreover, sample pictures from the 2D scene in perspective and orthographic projections can be found under the images directory.
+PS: some code refactoring and improvements have to be done for improving the readability and functionality of the code.
