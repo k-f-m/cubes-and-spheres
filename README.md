@@ -17,4 +17,5 @@ The program reads the coordinates from a spreadsheet file (.csv) and demonstrate
 A pre-built software (with a perspective view) for Windows platform can be downloaded and tested; the executable "2D_scene.exe" can be found under the "Build" directory.
 
 Moreover, sample pictures from the 2D scene in perspective and orthographic projections can be found under the images directory.
+
 PS: some code refactoring and improvements have to be done for improving the readability and functionality of the code.
