@@ -18,4 +18,4 @@ A pre-built software (with a perspective view) for Windows platform can be downl
 
 Moreover, sample pictures from the 2D scene in perspective and orthographic projections can be found under the images directory.
 
-PS: some code refactoring and improvements have to be done for improving the readability and functionality of the code.
+PS: some further code refactoring and improvements have to be done for improving the readability and maintainability of the code.
