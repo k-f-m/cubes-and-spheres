@@ -46,11 +46,11 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 13192}
+      Script: {instanceID: 9988}
     - Class: 114
-      Script: {instanceID: 24200}
+      Script: {instanceID: 10666}
     - Class: 114
-      Script: {instanceID: 27716}
+      Script: {instanceID: 11560}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -162,6 +162,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 360ee8d2687edc53394bb81364aa7441
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EnableDisable
   - hash:
       serializedVersion: 2
       Hash: 0dbc3be398b4869a5c8d0d8481ee402c
@@ -296,6 +302,12 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 253d304ebeaeb8bc89c7ae623beb6b37
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ImportObjects
+  - hash:
+      serializedVersion: 2
       Hash: 5ad4aa237d47ac2bab17bacb672edf7a
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -354,6 +366,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 5d93d0574621e40b6213411b3a43f24d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Constructor
   - hash:
       serializedVersion: 2
       Hash: f336e086360abe49a3323e5f1583c35a
@@ -476,29 +494,11 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 253d304ebeaeb8bc89c7ae623beb6b37
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ImportObjects
-  - hash:
-      serializedVersion: 2
-      Hash: 5d93d0574621e40b6213411b3a43f24d
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Constructor
-  - hash:
-      serializedVersion: 2
       Hash: bbf4e9238520122748c65891eda5012c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: UserInputHandling
-  - hash:
-      serializedVersion: 2
-      Hash: 44de7e0ac888ac2627347aace41e9c2e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: EnableDisable
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/K1/2D_scene/2D_scene.exe
+  playerPath: C:/Users/K1/CubesAndSpheres/Build/Orthographic Projection/Windows/2D_scene.exe
