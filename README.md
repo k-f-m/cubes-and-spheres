@@ -19,5 +19,5 @@ A pre-built software (with a perspective view) for Windows platform can be downl
 Moreover, sample pictures from the 2D scene in perspective and orthographic projections can be found under the "Images" directory.
 
 ----Update 01.10.2019----
-### New builds
+### New builds:
 New builds for Windows platform and WebGL are released. Now it is possible to run the program on common web browsers such as Mozilla Firefox and Google Chrome, and Microsoft Edge.  However, due to security considerations, it is not possible to run the program locally under the default settings of Mozilla Firefox and Google Chrome; Microsoft Edge can run the program without any configuration change. In general, the program has to be executed on a HTTP server. In order to run the program locally, a local HTTP server has to be installed. By using "Build and Run" functionality of Unity, the program will be executed on a local HTTP server. Executables can be found under the "Build" directory.
