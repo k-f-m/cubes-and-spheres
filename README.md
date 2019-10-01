@@ -14,7 +14,7 @@ In Unity, program a 2D scene that reads parameters from a file, loads the descri
 ## Further notes:
 The program reads the coordinates from a spreadsheet file (.csv) and demonstrates the results on the screen as perspective or orthographic projection. The coordinates for each object are given in three dimensions. The position of the camera can also be set via the corresponding parameters in the spreadsheet. As a consequence, objects and relevant parameters can be added and altered by the user easily and as desired using the common spreadsheet management software, as well as a simple text editor. The spreadsheet file with the name "ObjectsProperties.csv" can be found under Assets ->  Resources directory and modified accordingly. The file is already filled with some semi-random coordinates for demonstration purposes.
 
-A pre-built software (with a perspective view) for Windows platform can be downloaded and tested; the executable "2D_scene.exe" can be found under the "Build" directory.
+A pre-built software (with a perspective view) for Windows platform can be downloaded and tested; the executable "2D_scene.exe" can be found under the "Build" directory. In order to run the program, the executable with the corresponding dependencies have to be downloaded (located in "Build" directory).
 
 Moreover, sample pictures from the 2D scene in perspective and orthographic projections can be found under the images directory.
 
