@@ -9,7 +9,6 @@ public class EnableDisable : MonoBehaviour
     void Start()
     {
         
-        
     }
 
     // Update is called once per frame
